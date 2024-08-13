@@ -6,7 +6,10 @@ namespace TaskJunior3
     {
         static void Main(string[] args)
         {
-            string nameUser, genderUser, zodiacSign, workUser;
+            string nameUser;
+            string genderUser; 
+            string zodiacSign; 
+            string workUser;
             int ageUser;
 
             Console.WriteLine("Приветствую очаровательный человек, который все таки решил пройти мой социальный опрос о таком наилучшем и великим человеком как вы =)))\nИтак начнем:");
